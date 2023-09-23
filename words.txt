@@ -1,6 +1,0 @@
-Planet: Earth
-Planet: Jupiter
-Planet: Mars
-Planet: Neptune
-Planet: Saturn
-Planet: Venus
